@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/samiea.github.io/test-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/samiea.github.io/test-app/static/js/main.8e6f255a.chunk.js",
+    "main.js.map": "/samiea.github.io/test-app/static/js/main.8e6f255a.chunk.js.map",
+    "runtime-main.js": "/samiea.github.io/test-app/static/js/runtime-main.1b73332c.js",
+    "runtime-main.js.map": "/samiea.github.io/test-app/static/js/runtime-main.1b73332c.js.map",
+    "static/js/2.e5f0e2ab.chunk.js": "/samiea.github.io/test-app/static/js/2.e5f0e2ab.chunk.js",
+    "static/js/2.e5f0e2ab.chunk.js.map": "/samiea.github.io/test-app/static/js/2.e5f0e2ab.chunk.js.map",
+    "index.html": "/samiea.github.io/test-app/index.html",
+    "precache-manifest.aead3e0a977b1061142cd3651e46444c.js": "/samiea.github.io/test-app/precache-manifest.aead3e0a977b1061142cd3651e46444c.js",
+    "service-worker.js": "/samiea.github.io/test-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/samiea.github.io/test-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e5f0e2ab.chunk.js.LICENSE.txt": "/samiea.github.io/test-app/static/js/2.e5f0e2ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/samiea.github.io/test-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b73332c.js",
+    "static/js/2.e5f0e2ab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8e6f255a.chunk.js"
+  ]
+}
